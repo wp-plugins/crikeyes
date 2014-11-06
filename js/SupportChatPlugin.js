@@ -5,11 +5,11 @@ function MinimizeChatBox() {
 
     if (origHeight == '312px') {
         jQuery("#Crikeyes_ChatBox").animate({ height: '38px' });
-        jQuery("#Crikeyes_minImage").attr("src", pluginURL+'/Crikeyes/images/up_Arrow.png');
+        jQuery("#Crikeyes_minImage").attr("src", pluginURL+'/crikeyes/images/up_Arrow.png');
     }
     if (origHeight == '38px') {
         jQuery("#Crikeyes_ChatBox").animate({ height: '312px' });
-        jQuery("#Crikeyes_minImage").attr("src", pluginURL+'/Crikeyes/images/down_Arrow.png');
+        jQuery("#Crikeyes_minImage").attr("src", pluginURL+'/crikeyes/images/down_Arrow.png');
     }
 }
 
@@ -19,11 +19,11 @@ function MinimizeChatBoxLeft() {
 
     if (origHeight == '-3px') {
         jQuery(".Crikeyes_leftside").animate({ left: '-234px' });
-        jQuery("#Crikeyes_minImage").attr("src", pluginURL+'/Crikeyes/images/down_Arrow.png');
+        jQuery("#Crikeyes_minImage").attr("src", pluginURL+'/crikeyes/images/down_Arrow.png');
     }
     if (origHeight == '-234px') {
         jQuery(".Crikeyes_leftside").animate({ left: '-3px' });
-        jQuery("#Crikeyes_minImage").attr("src", pluginURL+'/Crikeyes/images/up_Arrow.png');
+        jQuery("#Crikeyes_minImage").attr("src", pluginURL+'/crikeyes/images/up_Arrow.png');
     }
 }
 
@@ -33,11 +33,11 @@ function MinimizeChatBoxRight() {
 
     if (origHeight == '-65px') {
         jQuery(".Crikeyes_rightside").animate({ right: '-302px' });
-        jQuery("#Crikeyes_minImage").attr("src", pluginURL+'/Crikeyes/images/down_Arrow.png');
+        jQuery("#Crikeyes_minImage").attr("src", pluginURL+'/crikeyes/images/down_Arrow.png');
     }
     if (origHeight == '-302px') {
         jQuery(".Crikeyes_rightside").animate({ right: '-65px' });
-        jQuery("#Crikeyes_minImage").attr("src", pluginURL+'/Crikeyes/images/up_Arrow.png');
+        jQuery("#Crikeyes_minImage").attr("src", pluginURL+'/crikeyes/images/up_Arrow.png');
     }
 }
 
@@ -47,10 +47,10 @@ function MinimizeChatBoxLeftBottom() {
 
     if (origHeight == '310px') {
         jQuery("#Crikeyes_ChatBox").animate({ height: '38px' });
-        jQuery("#Crikeyes_minImage").attr("src", pluginURL+'/Crikeyes/images/up_Arrow.png');
+        jQuery("#Crikeyes_minImage").attr("src", pluginURL+'/crikeyes/images/up_Arrow.png');
     }
     if (origHeight == '38px') {
         jQuery("#Crikeyes_ChatBox").animate({ height: '310px' });
-        jQuery("#Crikeyes_minImage").attr("src", pluginURL+'/Crikeyes/images/down_Arrow.png');
+        jQuery("#Crikeyes_minImage").attr("src", pluginURL+'/crikeyes/images/down_Arrow.png');
     }
 }

@@ -222,7 +222,7 @@ add_action( 'admin_menu', 'crikey_plugin_menu' );
 
 /** Step 1. */
 function crikey_plugin_menu() {
-	add_menu_page( 'Crikey Plugin Options', 'Crikeyes', 'manage_options', 'crikey-plugin-settings', 'crikey_plugin_options', plugins_url( 'Crikeyes/images/crikeyes_menu.png' ) );
+	add_menu_page( 'Crikey Plugin Options', 'Crikeyes', 'manage_options', 'crikey-plugin-settings', 'crikey_plugin_options', plugins_url( 'crikeyes/images/crikeyes_menu.png' ) );
 }
 
 /* Include js and css files in back end */
