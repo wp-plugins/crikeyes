@@ -1,0 +1,76 @@
+.crikey_admin_content #ReadChatArea {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 1px solid #DDDDDD;
+    color: #7E7E7E;
+    font-family: open sans;
+    font-size: 13px;
+    height: 300px;
+    margin-bottom: 6px;
+    margin-left: 0;
+    margin-top: 0;
+    padding: 12px;
+    resize: none;
+    width: 60%;
+}
+.crikey_admin_left {
+    float: left;
+}
+.crikey_admin_right {
+    float: right;
+    width: 70%;
+}
+.crikey_preview {
+    float: left;
+    margin-right: 10px;
+}
+.crikey_admin_content #Ul1 > li {
+    margin-bottom: 30px;
+    width: 250px;
+}
+#Ul1 #colorSelector, #Ul1 #colorSelector1, #Ul1 #colorSelector2, #Ul1 #layoutselect {
+    float: right;
+}
+.crikey_admin_content #generate_script {
+    float: right;
+    margin-top: 25px;
+    font-size: 13px;
+    padding: 4px 10px;
+    background-color: #D9534F;
+    color: #FFFFFF;
+    border-radius: 2px 2px 2px 2px;
+    border: none;
+    cursor: pointer;
+    font-weight: 500;
+}
+.crikey_admin_content #widget_option > input {
+    margin: 5px 10px;
+}
+.crikey_admin_content #layoutselect select {
+    padding: 3px;
+}
+.crikey_admin_content h3 {
+    border-bottom: 1px solid #CCCCCC;
+    float: left;
+    font-family: open sans;
+    font-size: 18px;
+    margin: 0 0 10px;
+    padding-bottom: 8px;
+    width: 100%;
+}
+.crikey_admin_left #colorsel {
+    margin-bottom: 40px;
+}
+#Crikeyes_ChatBoxContent {
+    border-bottom: 1px solid #cacaca !important;
+}
+.crikey_admin_content .update-button {
+    margin-right: 25px;
+}
+.crikey_admin_content #Ul1 {
+    list-style: none outside none;
+}
+.crikey_admin_content .Crikeyes_tb5 {
+    font-size: 13px !important;
+    height: 36px !important;
+    width: 211px !important;
+}
