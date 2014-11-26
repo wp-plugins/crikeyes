@@ -182,7 +182,7 @@ function jal_install_data() {
 			'chatwidget_id' => '1', 
 			'version' => '1.0.0', 
 			'script' => $script,
-			'header_color' => 'rgb(0, 101, 153)',
+			'header_color' => 'rgb(33, 154, 201)',
 			'header_font_color' => 'rgb(255, 255, 255)',
 			'body_color' => 'rgb(255, 255, 255)',
 			'location_layout' => '4',

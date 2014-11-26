@@ -74,3 +74,11 @@
     height: 36px !important;
     width: 211px !important;
 }
+#Crikeyes_poweredtext {
+    font-size: 8px;
+    text-align: center;
+}
+#Crikeyes_poweredtext a {
+    color: #666;
+    text-decoration: none;
+}
